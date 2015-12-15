@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CAD91793AE7DF082BCF3E2C7968803757073AE3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2CAD91793AE7DF082BCF3E2C7968803757073AE3" : 0,
+    "90E886432CFA56C47E8D4EEC95DD3F042025C9F8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "299E0D5F-5BDE-4DA3-96E7-D910EC6A841F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2CAD91793AE7DF082BCF3E2C7968803757073AE3" : "%E9%85%B7%E8%B7%91\/",
+    "90E886432CFA56C47E8D4EEC95DD3F042025C9F8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "酷跑",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "酷跑.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhouhengte\/KuRun.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CAD91793AE7DF082BCF3E2C7968803757073AE3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zhouhengte\/test110.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90E886432CFA56C47E8D4EEC95DD3F042025C9F8"
+    }
+  ]
+}
